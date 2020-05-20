@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenghitungGiziMakanan", "PenghitungGiziMakanan.csproj", "{50D2A4BA-EE4F-4A3C-9AA9-4135C0690FEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API PenghitungGizi", "..\API PenghitungGizi\API PenghitungGizi.csproj", "{760D6508-496C-4F49-9329-A846C35213E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API PenghitungGizi", "API PenghitungGizi\API PenghitungGizi.csproj", "{760D6508-496C-4F49-9329-A846C35213E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
